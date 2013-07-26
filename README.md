@@ -8,4 +8,6 @@ LICENCE AND COPYRIGHT
 
 Copyright Ross Attrill
 
-Artistic Licence 2.0 - http://opensource.org/licenses/Artistic-2.0
+This software is distributed under the terms of the Artistic License 2.0.
+
+See http://opensource.org/licenses/Artistic-2.0
